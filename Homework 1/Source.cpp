@@ -6,6 +6,8 @@ using namespace std;
 
 /* Question 1: EX01_01
 
+And this is cool
+
 a) CPU
 b) RAM (Memory)
 c) i, On a Disk
